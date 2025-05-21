@@ -1,0 +1,5 @@
+Cashier 1
+Janitor 1
+Loss Prevention 1
+Freight 1
+Printing 1
